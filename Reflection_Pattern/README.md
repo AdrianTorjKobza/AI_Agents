@@ -1,0 +1,2 @@
+The reflection pattern in Large Language Models (LLMs) is a design approach where an LLM generates an output, then reflects on its own work, identifies areas for improvement, and iteratively refines the output.
+![Reflection Pattern](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.dailydoseofds.com%2Fp%2F5-agentic-ai-design-patterns&psig=AOvVaw2cN5R8SFNwTwGjNUJ9SB4M&ust=1751183429192000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjxluTQk44DFQAAAAAdAAAAABAE)
