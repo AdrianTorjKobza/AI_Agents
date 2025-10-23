@@ -1,1 +1,1 @@
-Create a multi-agent crew to automate customer support.
+Build a multi-agent crew (using CrewAI), to automate customer support.
