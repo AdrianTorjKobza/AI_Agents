@@ -1,5 +1,4 @@
 # System Scout
-A lightweight MCP Server that gives AI Agents the ability to monitor local system performance.
 A lightweight Model Context Protocol (MCP) server that empowers AI Agents (e.g. Claude, Cursor) to monitor and diagnose your local system performance.
 
 ## Features
