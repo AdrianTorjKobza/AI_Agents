@@ -20,7 +20,7 @@ A lightweight MCP Server that gives AI Agents the ability to navigate, search, a
     }
   }
 }
-
+```
 
 ## How the AI can use this (The "Agentic" Workflow):
 **User Query:** *"Find the error message in my logs folder and tell me when it happened."*
