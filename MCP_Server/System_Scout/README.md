@@ -16,7 +16,7 @@ A lightweight Model Context Protocol (MCP) server that empowers AI Agents (e.g. 
   "mcpServers": {
     "system-scout": {
       "command": "python",
-      "args": ["/path/to/your/system-scout/server.py"]
+      "args": ["/path/to/System_Scout/server.py"]
     }
   }
 }
