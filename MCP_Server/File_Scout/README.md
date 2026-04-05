@@ -16,7 +16,7 @@ A lightweight MCP Server that gives AI Agents the ability to navigate, search, a
   "mcpServers": {
     "file-scout": {
       "command": "python",
-      "args": ["/absolute/path/to/AI Agents/MCP Servers/File_Scout/server.py"]
+      "args": ["/path/to/File_Scout/server.py"]
     }
   }
 }
