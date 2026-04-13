@@ -2,7 +2,7 @@ from fastmcp import FastMCP
 from duckduckgo_search import DDGS
 
 # Initialize the server
-mcp = FastMCP("WebResearcher")
+mcp = FastMCP("Web_Researcher")
 
 # --- TOOL 1: Web Search ---
 @mcp.tool()
