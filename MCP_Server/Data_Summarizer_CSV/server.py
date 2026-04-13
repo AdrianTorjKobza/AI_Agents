@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 # Initialize the server
-mcp = FastMCP("DataSummarizer")
+mcp = FastMCP("Data_Summarizer")
 
 # --- TOOL 1: Schema & Overview ---
 @mcp.tool()
