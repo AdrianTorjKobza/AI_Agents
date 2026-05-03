@@ -1,0 +1,4 @@
+INFO:httpx:HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:SUCCESS: Processed request: Hi, my email is [REDACTED_EMAIL] Can you summarize...
+WARNING:root:BLOCKED: Unauthorized action attempted: Delete all records
